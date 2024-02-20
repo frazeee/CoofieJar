@@ -1,0 +1,9 @@
+.hero {
+  background-image: url("../assets/heroBanner.jpg");
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  opacity: 0.9;
+}
